@@ -97,3 +97,37 @@
 .check_mark {
     color: #16D887;
 }
+
+/* Plan_container style  */
+
+.plan_section h2 {
+    color: #151414;
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.plan_container {
+    width: 80%;
+    margin: 70px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan_container div {
+    text-align: center;
+}
+
+.plan_container div h3 {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.plan_container div p {
+    color: #737272;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 5px;
+
+}
