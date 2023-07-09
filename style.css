@@ -57,3 +57,43 @@
     position: absolute;
     right: 0;
 }
+
+/* failures style  */
+
+.failures_container {
+    width: 80%;
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 87px;
+}
+
+.failures_container img {
+    width: 400px;
+    height: 500px
+}
+
+.failures_text h2 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.failures_text p {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.failures_text h5 {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.check_mark {
+    color: #16D887;
+}
